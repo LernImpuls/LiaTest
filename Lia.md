@@ -9,12 +9,12 @@ Email: [Deine Email]
 
 ![Feedback in Tutorien](https://www.uni-due.de/imperia/md/images/zhqe/fittosize__1200_550_d35959e02aeffa8c3d8e0181851c21db_img_0043.jpg) <!-- Ersetze diesen Link durch den tatsächlichen Link zu deinem Bild -->
 
-## Lernziel
+## Worum geht es?
 
-Das Ziel dieses Kurses ist es, studentische Tutor:innen im ersten Hochschulsemester darin zu schulen, wie sie effektives Feedback in ihren Tutorien geben und von ihren Teilnehmenden einholen können. Am Ende dieses Kurses sollten die Teilnehmer:innen in der Lage sein:
+Das Ziel des Impulses ist es, studentischen Tutor:innen zu zeigen, wie sie lernförderliches Feedback in ihren Tutorien geben und von ihren Teilnehmenden einholen können. Am Ende dieses Kurses sollten die Teilnehmer:innen in der Lage sein:
 
 - Die Bedeutung von Feedback in Tutorien zu verstehen.
-- Verschiedene Methoden des Gebens und Einholens von Feedback anzuwenden.
+- Verschiedene Feedbackmethoden anzuwenden.
 - Ein eigenes Feedbackszenario für ihr Tutorium zu erstellen.
 
 ---
